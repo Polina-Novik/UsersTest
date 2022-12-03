@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6561cdf8-5499-4192-ae48-adac0a49fde7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.novik/UsersService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/novik/UsersServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IPb459GMuyrrMlPhKGvrh7CDx2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/UsersTest/src/test/java/com/novik",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\IdeaProjects\UsersTest\src\test\java\com\novik" />
+      <recent name="C:\Users\Asus\IdeaProjects\UsersTest\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\IdeaProjects\UsersTest\src\main\java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.novik" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.novik" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UsersServiceTest">
+    <configuration name="UsersServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UsersTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.novik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.novik" />
+      <option name="MAIN_CLASS_NAME" value="com.novik.UsersServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersServiceTest.createNewUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UsersTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.novik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.novik" />
+      <option name="MAIN_CLASS_NAME" value="com.novik.UsersServiceTest" />
+      <option name="METHOD_NAME" value="createNewUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersServiceTest.isBirthDay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UsersTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.novik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.novik" />
+      <option name="MAIN_CLASS_NAME" value="com.novik.UsersServiceTest" />
+      <option name="METHOD_NAME" value="isBirthDay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersServiceTest.isBirthDayWithNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UsersTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.novik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.novik" />
+      <option name="MAIN_CLASS_NAME" value="com.novik.UsersServiceTest" />
+      <option name="METHOD_NAME" value="isBirthDayWithNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersServiceTest.validateUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UsersTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.novik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.novik" />
+      <option name="MAIN_CLASS_NAME" value="com.novik.UsersServiceTest" />
+      <option name="METHOD_NAME" value="validateUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UsersServiceTest" />
+        <item itemvalue="JUnit.UsersServiceTest.validateUser" />
+        <item itemvalue="JUnit.UsersServiceTest.isBirthDayWithNull" />
+        <item itemvalue="JUnit.UsersServiceTest.isBirthDay" />
+        <item itemvalue="JUnit.UsersServiceTest.createNewUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6561cdf8-5499-4192-ae48-adac0a49fde7" name="Changes" comment="" />
+      <created>1670085972930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670085972930</updated>
+      <workItem from="1670085974659" duration="11016000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/UsersTest$UsersServiceTest_isBirthDay.ic" NAME="UsersServiceTest.isBirthDay Coverage Results" MODIFIED="1670095059901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.novik.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/UsersTest$UsersServiceTest.ic" NAME="UsersServiceTest Coverage Results" MODIFIED="1670096948200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.novik.*</FILTER>
+    </SUITE>
+  </component>
+</project>
